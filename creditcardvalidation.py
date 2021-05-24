@@ -8,4 +8,3 @@ def validateCard(expDate):
 
 validateCard(date(2021, 6, 25))
 print(datetime.now())
-print(datetime.today())
